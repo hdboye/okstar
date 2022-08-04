@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="horribleBG.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="onion0000" x="0" y="0" width="2630" height="994"/>
+	<SubTexture name="onion0001" x="2630" y="0" width="2630" height="994"/>
+	<SubTexture name="onion0002" x="5260" y="0" width="2630" height="994"/>
+	<SubTexture name="onion0003" x="0" y="994" width="2630" height="994"/>
+	<SubTexture name="onion0004" x="2630" y="994" width="2630" height="994"/>
+	<SubTexture name="onion0005" x="5260" y="994" width="2630" height="994"/>
+	<SubTexture name="onion0006" x="0" y="1988" width="2630" height="994"/>
+	<SubTexture name="onion0007" x="2630" y="1988" width="2630" height="994"/>
+	<SubTexture name="onion0008" x="5260" y="1988" width="2630" height="994"/>
+	<SubTexture name="onion0009" x="0" y="2982" width="2630" height="994"/>
+</TextureAtlas>
